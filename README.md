@@ -1,6 +1,6 @@
 # micuil
 
-A new Flutter project.
+App to calculate CUIL number
 
 ## Getting Started
 
